@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @62wip
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning aiogramm
