@@ -1,4 +1,5 @@
 - *Hello! I'm @62wip 👋*
+  
 🎓 Student at the Faculty of Computer Science, HSE University, majoring in Applied Mathematics and Informatics
 📚 Currently learning advanced mathematics and algorithms
 🔍 Interested in Data Science and Machine Learning
